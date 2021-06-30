@@ -1,4 +1,5 @@
 body{position:absolute;top:0px;
+  background-image:url(https://teddytest1.github.io/img1/%E8%83%8C%E6%99%AF.png);
 }
 body::-webkit-scrollbar {
     display: none;
@@ -8,7 +9,7 @@ body::-webkit-scrollbar {
   padding: 20px;
   padding-right: 30px;
   padding-left: 30px;
-  background-color:#a6b3a7;
+  background-color:#bda9a0;
   color:#411d1d;
   font-family:微軟正黑體;
   font-weight:bold;
@@ -33,7 +34,7 @@ body::-webkit-scrollbar {
   cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
 }
 .nav_ul{
-  background-color:#a6b3a7;
+  background-color:#bda9a0;
   
 }
 .content{
@@ -68,78 +69,74 @@ li::after {
 <style type="text/css">
 #P1{
     position:absolute;
-    top:200px;
+    top:00px;
     left:0px;
     z-index:-1;
 }
 #P2{
     position:absolute;
-    top:270px;
-    left:200px;
-    z-index:1;
-    cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
+    top:180px;
+    left:100px;
+    z-index:0;
 }
 #P3{
     position:absolute;
-    top:45px;
-    left:0px;
+    top:520px;
+    left:940px;
     z-index:0;
 }
 #P4{
     position:absolute;
-    top:257px;
-    left:565px;
+    top:180px;
+    left:900px;
     z-index:0;
-  cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
 }
 #P5{
     position:absolute;
-    top:260px;
-    left:960px;
+    top:398px;
+    left:230px;
     z-index:3;
-    cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
 }
 #P6{
     position:absolute;
-    top:256.5px;
-    left:1400px;
+    top:195px;
+    left:515px;
     z-index:0;
-  cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
 }
 #P7{
     position:absolute;
     top:180px;
-    right:0px;
+    right:100px;
     z-index:0;
 }
 #P8{
     position:absolute;
     top:520px;
-    right:840px;
+    right:940px;
     z-index:0;
 }
 #P9{
     position:absolute;
     top:180px;
-    right:800px;
+    right:900px;
     z-index:0;
 }
 #P10{
     position:absolute;
     top:398px;
-    right:100px;
+    right:235px;
     z-index:3;
 }
 #P11{
     position:absolute;
     top:195px;
-    right:40px;
+    right:140px;
     z-index:0;
 }
 #P12{
     position:absolute;
-    top:398px;
-    left:95px;
+    top:399px;
+    left:120px;
     z-index:3;
 }
 #P13{
@@ -150,18 +147,22 @@ li::after {
 }
 .font1{
   font-size:65px;
-  font-family:標楷體;
+  font-family:圓體;
+  font-weight:bold;
 }
 .font2{
   font-size:25px;
-  font-family:標楷體;
+  font-family:Montserrat;
+  font-weight:bold;
 }
 .font3{
   font-size:26px;
-  font-family:標楷體;
+  font-family:Montserrat;
+  font-weight:bold;
 }
 .font4{
   font-size:23px;
-  font-family:標楷體;
+  font-family:Montserrat;
+  font-weight:bold;
 }
 </style>
