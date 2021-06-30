@@ -1,9 +1,6 @@
 body{position:absolute;top:0px;
   background-image:url(https://teddytest1.github.io/img1/%E8%83%8C%E6%99%AF.png);
 }
-body::-webkit-scrollbar {
-    display: none;
-}
 .button{
   display: inline-block;
   padding: 20px;
